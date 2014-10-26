@@ -1,0 +1,13 @@
+******************************************************************************************
+                             Sistema Experto - Reporte
+******************************************************************************************
+Fecha:            Thu Sep 25 09:45:21 COT 2014
+
+Número de síntomas: 7
+Síntoma: Tos
+Síntoma: Ahogos
+Síntoma: Ruido al respirar --Enfermedad: Asma - mortalidad del 10%
+Síntoma: Fiebre --Enfermedad: Bronquitis - mortalidad del 10% --Farmaco: Acetaminofen - venta libre: NO
+Síntoma: Flemas
+Síntoma: Congestión nasal --Enfermedad: Gripa común - mortalidad del 5% --Farmaco: Noxpirin - venta libre: SI
+Síntoma: Cefalea

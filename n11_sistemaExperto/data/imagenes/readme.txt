@@ -1,0 +1,1 @@
+Iconos enfermedad y farmaco tomados de http://www.searchicon.net
